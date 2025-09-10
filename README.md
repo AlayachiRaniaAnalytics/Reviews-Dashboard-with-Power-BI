@@ -58,7 +58,7 @@ The model follows a **star schema** where the **Reviews table** is central and l
 
 📌 Data Model:  
 
-*(Insert DataModel.png here)*  
+![Data Model](DataModel.png)    
 
 ### 🔹 DAX Measures
 
@@ -116,10 +116,12 @@ The dashboard provides both **quantitative KPIs** and **qualitative insights**.
 
 📌 **Screenshot Example:**  
 
-*(Insert dashboard.png here)*  
+![Reviews](Reviews.png)  
+![Average](Average.png)    
 
 📌 **Project Files:**  
-- [Power BI Project File (.pbix)](Projet-Reviews.pbix)  
+- [Power BI Project File (.pbix)](Views_Advanced.pbix)
+- [Power BI Project File (.pdf)](Views_Advanced.pdf)  
 - [Detailed Project Design Document (PDF)](reviewsDsd.pdf)  
 
 ---
@@ -144,6 +146,8 @@ The solution was built with **Power BI Desktop** and published on **Power BI Ser
 3. Star-schema modeling with measures in DAX.  
 4. Dashboard design with interactive filters (course, participant, rating).  
 5. Online sharing via Power BI Service.  
+
+![architecture](architecture.png)
 
 ---
 
